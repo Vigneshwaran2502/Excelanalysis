@@ -33,7 +33,7 @@ FileFlowPro is a comprehensive file analysis and visualization platform that all
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Vigneshwaran2502/Excelanalysis.git
-   cd fileflowpro
+   cd Excelanalysis
    ```
 
 2. **Install dependencies**
@@ -127,3 +127,4 @@ For issues and questions:
 2. Review server logs for error messages
 
 3. Ensure your DATABASE_URL is correctly configured
+
